@@ -1,1 +1,2 @@
 DS_Proyecto_01_Datos_Properati.csv filter=lfs diff=lfs merge=lfs -text
+DS_Proyecto_01_Datos_Properati-checkpoint.csv filter=lfs diff=lfs merge=lfs -text
